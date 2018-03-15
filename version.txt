@@ -1,4 +1,4 @@
 [public_Lib3MF]
-BuildNumber = 193
+BuildNumber = 195
 GITBranch = master
 GITRevision = 18e8219d3e993ac0a91c56d90c8ceafb2b1ac75f
