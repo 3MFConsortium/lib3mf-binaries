@@ -9,5 +9,5 @@ This SDK package contains a CMake project-setup for several examples. To use the
 	- `GenerateMake.sh` on Linux or MAC
 	- `GenerateVS2015.bat` on Windows
 4. Build the examples:
-	- Navigate to `Examples` and run <br> `cmake --build .`
+	- Navigate to `build` and run <br> `cmake --build .`
 5. Run the example-exectuables in the `build`-folder
